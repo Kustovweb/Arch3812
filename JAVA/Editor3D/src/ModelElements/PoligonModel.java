@@ -9,6 +9,7 @@ public class PoligonModel {
     public PoligonModel(List<Texture> textures) {
         this.poligons = new ArrayList<>();
         this.textures = textures;
+        this.poligons.add(new Poligon());
     }
 
     

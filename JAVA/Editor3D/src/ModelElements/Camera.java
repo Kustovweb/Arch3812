@@ -4,8 +4,8 @@ import Stuff.Angle3D;
 
 
 public class Camera {
-    Point3D location;
-    Angle3D angle;
+    public Point3D location;
+    public Angle3D angle;
 
    
     public Camera(Point3D location, Angle3D angle) {

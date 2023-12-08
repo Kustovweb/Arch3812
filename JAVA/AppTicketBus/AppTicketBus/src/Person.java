@@ -24,4 +24,6 @@ public class Person {
     public void setLogin(long hashPass) {
         this.hashPass = hashPass;
     }
+
+    
 }

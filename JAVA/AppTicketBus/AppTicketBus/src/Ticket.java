@@ -17,4 +17,6 @@ public class Ticket {
         this.place = place;
         this.roadNumber = roadNumber;
     }
+
+    
 }

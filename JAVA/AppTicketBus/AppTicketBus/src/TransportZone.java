@@ -5,4 +5,6 @@ public class TransportZone {
         this.id = id;
         this.remark = remark;
     }
+
+    
 }
